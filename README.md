@@ -69,6 +69,7 @@ P&L Year (Market) – Yearly Profit & Loss analysis for different markets.
 
 
 GM% (Subzone) – Gross margin percentage analysis across subzones.
+
 ![image](https://github.com/user-attachments/assets/352d0353-0976-4b0a-8fb2-cefadf13887c)
 
 
