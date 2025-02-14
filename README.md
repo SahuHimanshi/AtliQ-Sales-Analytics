@@ -31,7 +31,7 @@ Microsoft Excel – For data cleaning, analysis, and visualization.
 The project includes several key analyses to assess AtliQ’s sales performance:
 
 Customer Performance Report – Analyzing customer purchasing behavior and trends.
-(https://github.com/user-attachments/assets/8a7e7f34-c502-4ecb-bf0a-163cce53e0c9)
+![image](https://github.com/user-attachments/assets/8a7e7f34-c502-4ecb-bf0a-163cce53e0c9)
 
 Market Performance vs. Target – Evaluating market trends against set targets.
 
