@@ -57,7 +57,8 @@ Top 5 Countries – Identifying the top-performing countries based on sales reve
 
 
 Profit & Loss (P&L) Report – Assessing financial performance, including revenue, costs, and profitability.
-![image](https://github.com/user-attachments/assets/045eb515-b87e-44ba-80ae-c8d359ecfe27)
+![image](https://github.com/user-attachments/assets/43818407-80ec-47b7-ab37-fdc5d1b79148)
+
 
 
 P&L Month – Monthly Profit & Loss analysis for financial tracking.
