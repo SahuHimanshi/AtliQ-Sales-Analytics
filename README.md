@@ -57,4 +57,21 @@ Top 5 Countries – Identifying the top-performing countries based on sales reve
 
 
 Profit & Loss (P&L) Report – Assessing financial performance, including revenue, costs, and profitability.
+![image](https://github.com/user-attachments/assets/045eb515-b87e-44ba-80ae-c8d359ecfe27)
+
+
+P&L Month – Monthly Profit & Loss analysis for financial tracking.
+![image](https://github.com/user-attachments/assets/1d901fbe-67c3-4ae9-8167-3b2339026ad8)
+
+
+P&L Year (Market) – Yearly Profit & Loss analysis for different markets.
+![image](https://github.com/user-attachments/assets/4b604984-1f3b-433a-85a9-e9fcc8ec8824)
+
+
+GM% (Subzone) – Gross margin percentage analysis across subzones.
+![image](https://github.com/user-attachments/assets/352d0353-0976-4b0a-8fb2-cefadf13887c)
+
+
+
+
 
