@@ -61,7 +61,7 @@ Profit & Loss (P&L) Report – Assessing financial performance, including revenu
 
 
 P&L Month – Monthly Profit & Loss analysis for financial tracking.
-![image](https://github.com/user-attachments/assets/1d901fbe-67c3-4ae9-8167-3b2339026ad8)
+![image](https://github.com/user-attachments/assets/4a9cf9df-a747-4797-a0a4-29bd1dacb585)
 
 
 P&L Year (Market) – Yearly Profit & Loss analysis for different markets.
