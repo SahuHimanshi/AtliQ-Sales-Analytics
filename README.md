@@ -6,7 +6,8 @@ AtliQ Hardware is one of the fastest-growing companies in the electronic goods m
 
 This project focuses on analyzing sales data from AtliQ Hardware using Excel to generate valuable business insights.
 
-LIVE REPORTS : [here]https://1drv.ms/x/c/47a25ef2781e5338/EThTHnjyXqIggEfDEgAAAAABOUQL6Zob-r0-JtcQQVcj1g?e=yhfUya
+[LIVE REPORTS](https://1drv.ms/x/c/47a25ef2781e5338/EThTHnjyXqIggEfDEgAAAAABOUQL6Zob-r0-JtcQQVcj1g?e=yhfUya)
+
 
 🎯 Objective
 
